@@ -15,12 +15,12 @@ namespace CustomerApi.Models
         /// <summary>
         /// Nome do cliente.
         /// </summary>
-        public string Nome { get; set; }
+        public required string Nome { get; set; }
 
         /// <summary>
         /// Endereço do cliente.
         /// </summary>
-        public string Endereco { get; set; }
+        public required string Endereco { get; set; }
 
         /// <summary>
         /// Data de nascimento do cliente.
