@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwEl73Zlvps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marqe\\Repos\\lab\\customer-api\\CustomerApi\\CustomerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marqe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\marqe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
